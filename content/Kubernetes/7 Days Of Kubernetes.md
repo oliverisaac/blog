@@ -8,7 +8,7 @@ Exploring how we can quickly deploy manifests to our new k3s cluster. With signi
 
 # [[Day 2a - Ingress with Nginx and Cert-Manager]]
 
-Configuring HTTPS ingresses for both LAN-only and WAN clients. Also, a brief side-track with a script that generates HelmChart manifests for y
+Configuring HTTPS ingresses for both LAN-only and WAN clients. Also, a brief side-track with a script that generates HelmChart manifests for you.
 # [[Day 2b - Observability with Grafana and VictoriaMetrics]]
 
 # [[Day 3a - Fixing Partitioning Problems]]
