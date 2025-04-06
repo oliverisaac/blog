@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Isaac Initiatives",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "\"Remember kids, the only difference between screwing around and science is writing it down\" - Adam Savage",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
