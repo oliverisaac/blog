@@ -1,7 +1,14 @@
 # [[Day 1a - Setting Up k3s]]
 
+A brief explanation of selecting an OS and lightweight kubernetes distribution to deploy.
+
 # [[Day 1b - Deploying Manifests to K3s]]
+
+Exploring how we can quickly deploy manifests to our new k3s cluster. With significant code samples for setting up a git hook.
+
 # [[Day 2a - Ingress with Nginx and Cert-Manager]]
+
+Configuring HTTPS ingresses for both LAN-only and WAN clients. Also, a brief side-track with a script that generates HelmChart manifests for y
 # [[Day 2b - Observability with Grafana and VictoriaMetrics]]
 
 # [[Day 3a - Fixing Partitioning Problems]]
