@@ -5,6 +5,8 @@ tags:
   - victoriametrics
   - observability
 ---
+*(This post is part of my [[7 Days Of Kubernetes]] where I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s.)*
+
 Now that we've setup our k3s server as documented in [[Day 1a - Setting Up k3s]] and we can configure ingresses after our work in [[Day 2a - Ingress with Nginx and Cert-Manager]], let's start by setting up some observability.
 
 # Why Observability First?

@@ -5,10 +5,10 @@ tags:
   - operating-systems
   - scripts
 ---
+*(This post is part of my [[7 Days Of Kubernetes]] where I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s.)*
 
-(This post is part of my [[7 Days Of Kubernetes]])
 
-I recently picked up a [MiniPC](https://www.amazon.com/Computers-Windows-Display-Desktop-Bluetooth/dp/B0BQHBWPYX?dib=eyJ2IjoiMSJ9.Hcn7Gl6LwxUGv8HXGeSjinSSQ_8FH4EP3qoeJN73n5m8wbgMTJJa5497WS6WSwDyQPcQBkD_y464pwOV9CoFBPMFiRVgFGakx_xpE86GXsjEXvc8JG449yIbVESYMTHrfa5s4ba4kd0UG78QJKFYYnWPSlmenuojn2gqUFrwpEf9j34hbvQ9LVj1YNZj0HTc3WHUe5cLgvAYqeejDniZ_rc1c2N74916v-etIuQTZs0.vF3-1fGA7zI93rq4IkT3-ux54FONBA9--j_8KCfLVnc&dib_tag=se&keywords=5700U%2Bmini%2Bpc&qid=1743027501&sr=8-4&th=1) to run as a home server. With bit of effort I was able to get Kubernetes up and running using [k3s](https://k3s.io/). This post will briefly explore how I did this.
+I recently picked up a [MiniPC](https://amzn.to/42tenCq) to run as a home server. With bit of effort I was able to get Kubernetes up and running using [k3s](https://k3s.io/). This post will briefly explore how I did this.
 
 ## Prep Work
 

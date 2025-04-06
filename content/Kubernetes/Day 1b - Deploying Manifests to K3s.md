@@ -6,7 +6,7 @@ tags:
   - git
   - devops
 ---
-
+*(This post is part of my [[7 Days Of Kubernetes]] where I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s.)*
 
 K3s supports [a "magic directory" that will automatically apply any manifests that are placed inside it.](https://docs.k3s.io/installation/packaged-components) We can use this directory along with [its support for helm charts](https://docs.k3s.io/helm) to quickly get our deploys up and running.
 

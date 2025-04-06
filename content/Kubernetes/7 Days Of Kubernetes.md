@@ -2,6 +2,7 @@
 tags:
   - kubernetes
 ---
+In my series "7 days of Kubernetes" I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s. I walk you through how I went from a bare OS to a kuberntes cluster with Grafana and VictoriaMetrics for observability, argo-cd for continuous delivery, and argo-workflows to automatically build Docker images on push.
 
 # [[Day 1a - Setting Up k3s]]
 
