@@ -615,7 +615,7 @@ As you deploy these helm charts it's useful to read through the entire values.ya
 
 My emphasis on getting observability deployed first ended up paying off big-time when I first got my graphs running. I discovered I was quickly running out of disk!
 
-![[Screenshot 2025-04-05 at 11.03.42 PM.png]]
+![[Blog/Published/images/Screenshot 2025-04-05 at 11.03.42 PM.png]]5 at 11.03.42 PM.png]]
 
 Within 48 hours of booting this host my `/var` partition is nearly 60% full?! What has gone wrong?! 
 
