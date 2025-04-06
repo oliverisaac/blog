@@ -128,4 +128,6 @@ spec:
 ```
 
 ---
-Overall I'm happy to have discovered the expr language syntax and I'm excited to find place where I can leverage expr in my own tools to give them significant flexibility! It was mind-blowing being able to so precisely achieve my selector's goals without having to turn to hacky workarounds. Great work Argo team!
+Overall I'm happy to have discovered the expr language syntax and I'm excited to find place where I can leverage expr in my own tools to give them significant flexibility! It was mind-blowing being able to so precisely achieve my selector's goals without having to turn to hacky workarounds; great work Argo team!
+
+*(Also, [I submitted a PR to the argo-workflow docs](https://github.com/argoproj/argo-workflows/pull/14360) so hopefully the next person can discover expr-lang quite a bit faster. :) )*
