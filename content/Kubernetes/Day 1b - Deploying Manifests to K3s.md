@@ -1,3 +1,11 @@
+---
+tags:
+  - k3s
+  - kubernetes
+  - scripts
+  - git
+  - devops
+---
 
 
 K3s supports [a "magic directory" that will automatically apply any manifests that are placed inside it.](https://docs.k3s.io/installation/packaged-components) We can use this directory along with [its support for helm charts](https://docs.k3s.io/helm) to quickly get our deploys up and running.

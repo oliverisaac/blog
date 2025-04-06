@@ -1,3 +1,8 @@
+---
+tags:
+  - kubernetes
+---
+
 # [[Day 1a - Setting Up k3s]]
 
 A brief explanation of selecting an OS and lightweight kubernetes distribution to deploy.
