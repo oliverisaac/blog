@@ -7,7 +7,9 @@ tags:
   - devops
   - scripts
 ---
-*(This post is part of my [[7 Days Of Kubernetes]] where I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s.)*
+> [!note]
+> This post is part of my [[7 Days Of Kubernetes]] where I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s.
+
 
 So far we've set up our k3s cluster ([[Day 1a - Setting Up k3s]]) and configured git-based manifest management ([[Day 1b - Deploying Manifests to K3s]]). 
 

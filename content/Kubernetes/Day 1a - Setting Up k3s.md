@@ -5,7 +5,8 @@ tags:
   - operating-systems
   - scripts
 ---
-*(This post is part of my [[7 Days Of Kubernetes]] where I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s.)*
+> [!note]
+> This post is part of my [[7 Days Of Kubernetes]] where I explore setting up [a cheap MiniPC](https://amzn.to/42tenCq) as a single-node Kubernetes cluster using k3s.
 
 
 I recently picked up a [MiniPC](https://amzn.to/42tenCq) to run as a home server. With bit of effort I was able to get Kubernetes up and running using [k3s](https://k3s.io/). This post will briefly explore how I did this.
@@ -115,7 +116,7 @@ export EDITOR=vim
 EOF
 
 cat >/etc/profile.d/shell-config.sh <<'EOF'
-export HISTTIMEFORMAT="%F %T"
+export HISTTIMEFORMAT="%F %T "
 export HISTSIZE=10000
 export HISTFILESIZE=10000
 EOF
