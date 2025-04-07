@@ -149,7 +149,10 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
         "https://${cfg.analytics.websiteId}.${cfg.analytics.host ?? "goatcounter.com"}/count"
       );
       goatcounterScript.onload = () => {
-        window.goatcounter = { no_onload: true };
+        window.goatcounter = {
+          no_onload: true,
+          path: function(p) { return location.host + p }
+        };
         goatcounter.count({ path: location.pathname });
         document.addEventListener('nav', () => {
           goatcounter.count({ path: location.pathname });
