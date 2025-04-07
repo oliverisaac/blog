@@ -9,8 +9,8 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Isaac Initiatives",
-    pageTitleSuffix: "blog.isaacinit.com",
-    enableSPA: true,
+    pageTitleSuffix: " - blog.isaacinit.com",
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: 'goatcounter',
