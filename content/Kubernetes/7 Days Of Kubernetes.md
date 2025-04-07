@@ -17,10 +17,13 @@ Exploring how we can quickly deploy manifests to our new k3s cluster. With signi
 Configuring HTTPS ingresses for both LAN-only and WAN clients. Also, a brief side-track with a script that generates HelmChart manifests for you.
 # [[Day 2b - Observability with Grafana and VictoriaMetrics]]
 
+It is important to be able to identify ongoing issues with your nodes or cluster in general. We'll set ourselves up for success by installing monitoring tooling so we can observe system performance when we install more services.
+
 # [[Day 3a - Fixing Partitioning Problems]]
 
+Installing observability tooling immediately paid off: we identified a partitioning misconfiguration! In this post, we walk through fixing the partitioning problem using rescue mode of the installation media.
 
-# [[Day 3c - Egress with Postfix]]
+# [[Day 3b - Sending Emails Through Gmail With Postfix Proxy]]
 
 # [[Day 4a - Configure ArgoCD]]
 
