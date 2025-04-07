@@ -104,17 +104,29 @@ metadata:
   namespace: argo-workflow-jobs
 spec:
   event:
-    selector: >
-      discriminator == "obsidian" 
-      && metadata["x-github-event"] == ["push"]
+    selector: |
+      metadata["x-github-event"] == ["push"]
+
+      // The discriminator is the last subpath of URL path
+      && discriminator == "obsidian" 
+      
+      // for each of these file paths
       && any([ ".obsidian/release/", "Blog/Published/" ], {
           let prefix = #;
+
+          // loop over every commit
           any(payload.commits ?? [], {
             let commit = #;
+
+            // loop over each file action in the commit
             any(["added", "removed", "modified"], {
-              let sel = #;
-              any(commit[sel] ?? [], {
+              let file_action = #;
+
+              // Loop over each of the files in the file action
+              any(commit[file_action] ?? [], {
                 let filepath = #;
+
+                // return true if the given file is in our subpath
                 hasPrefix(filepath, prefix)
               })
             })
