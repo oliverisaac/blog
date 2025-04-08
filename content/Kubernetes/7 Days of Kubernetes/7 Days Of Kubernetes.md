@@ -28,6 +28,8 @@ Installing observability tooling immediately paid off: we identified a partition
 
 # [[Day 3b - Sending Emails Through Gmail With Postfix Proxy]]
 
+It's nice to have observability setup, but without alerting we won't know when things are going poorly! In this post we set up a postfix proxy to let us send email alerts to ourselves from Grafana.
+
 # [[Day 4a - Configure ArgoCD]]
 
 # [[Day 4b - ArgoCD triggered by GitHub webhook]]
