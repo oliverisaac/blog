@@ -3,6 +3,8 @@ tags:
   - chicken
   - dinner
 ---
+![[PXL_20250409_225618326.PORTRAIT.ORIGINAL.jpg]]
+
 ## You will need
 
 2 Mini naan from Aldi 
