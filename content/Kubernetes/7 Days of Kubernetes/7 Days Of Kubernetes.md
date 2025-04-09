@@ -32,7 +32,7 @@ It's nice to have observability setup, but without alerting we won't know when t
 
 # Upcoming posts:
 
-## [[Day 4a - Configure ArgoCD]]
+## [[Day 4a - Deploy ArgoCD]]
 
 ## [[Day 4b - ArgoCD triggered by GitHub webhook]]
 
