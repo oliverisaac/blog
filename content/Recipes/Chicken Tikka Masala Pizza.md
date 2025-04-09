@@ -8,7 +8,8 @@ tags:
 2 Mini naan from Aldi 
 100g Frozen chicken breast pieces
 50g Tikka Masala sauce 
-40g Cheese
+30g Cheddar Cheese
+20g mozzarella cheese 
 Curry powder 
 Cumin 
 
@@ -22,11 +23,11 @@ Take two pieces of the mini naan
 
 Spread 25g of Tikka Masala sauce on each naan
 
-Put 20g of cheese on the sauce on each naan
+Put 12g of cheese on the sauce on each naan
 
 Put 50 g of chicken on each naan
 
-Put 20 g of cheese on each naan on top of the chicken
+Put 12 g of cheese on each naan on top of the chicken
 
 Bake in oven at 425 for 12 minutes
 
