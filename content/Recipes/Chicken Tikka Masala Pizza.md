@@ -2,6 +2,7 @@
 tags:
   - chicken
   - dinner
+description: An easy to make dish combines the flavors of India with the convenient of pizza
 ---
 ![[PXL_20250409_225618326.PORTRAIT.ORIGINAL.jpg]]
 
