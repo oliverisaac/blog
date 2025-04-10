@@ -30,9 +30,12 @@ Installing observability tooling immediately paid off: we identified a partition
 
 It's nice to have observability setup, but without alerting we won't know when things are going poorly! In this post we set up a postfix proxy to let us send email alerts to ourselves from Grafana.
 
+## [[Day 4a - Deploy ArgoCD]]
+
+In this post I walk through setting up and deploy the ArgoCD helm chart. ArgoCD will provide the fundamental service for our continuous delivery work to get manifests into our cluster.
+
 # Upcoming posts:
 
-## [[Day 4a - Deploy ArgoCD]]
 
 ## [[Day 4b - ArgoCD triggered by GitHub webhook]]
 
