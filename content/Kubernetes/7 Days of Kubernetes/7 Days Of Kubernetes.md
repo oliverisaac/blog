@@ -34,10 +34,11 @@ It's nice to have observability setup, but without alerting we won't know when t
 
 In this post I walk through setting up and deploy the ArgoCD helm chart. ArgoCD will provide the fundamental service for our continuous delivery work to get manifests into our cluster.
 
-# Upcoming posts:
-
-
 ## [[Day 4b - ArgoCD triggered by GitHub webhook]]
+
+With ArgoCD set up, we can now configure a github webhook to trigger our ArgoCD deployes instantly rather than needing to wait for a repo sync!
+
+# Upcoming posts:
 
 ## [[Day 4c - Configuring Git Secrets]]
 
