@@ -3,7 +3,7 @@
 
 Before we get into the software-heavy fun of setting up Kubernetes and deploying services we need to have the hardware-heavy discussion of how I ended up with [a miniPC smaller than my hand](https://amzn.to/42tenCq) to serve my personal-server needs.
 
-![[PXL_20250329_043321083.jpg|This tiny miniPC is now my personal-projects and home server and it's smaller than my hand!]]
+![[acemagic-mini-k1.jpg|This tiny miniPC is now my personal-projects and home server and it's smaller than my hand!]]
 
 # Why change servers now?
 
@@ -23,7 +23,7 @@ I knew I wanted to run Kubernetes and the full suite of tools that's generally a
 
 > [!note] The Power of Hindsight
 > Looking at my current stats on my miniPC, I'm using 4GB of RAM and haven't deployed any of my services yet. The majority of that is #victoriametrics and #argo-cd.
-> ![[Screenshot 2025-04-06 at 11.12.11 PM.png]]
+> ![[memory-usse-by-namespace.png]]
 
 # Exploring VPS Options
 
@@ -31,14 +31,14 @@ I knew I wanted to run Kubernetes and the full suite of tools that's generally a
 
 My first instinct was to procure another DigitalOcean droplet. However, looking at the pricing, anything powerful enough to run the workloads I was hoping to run (Prometheus, Grafana, Argo-CD, Go apps, k3s, etc.) would run me *at least* $24/month.
 
-![[Screenshot 2025-04-06 at 10.27.28 PM.png|Anything in the green box is big enough for my workloads.]]
+![[digitalocean-pricing-table.png|Anything in the green box is big enough for my workloads.]]
 
 
 ## Hostinger
 
 Exploring outside of DigitalOcean's offerings, Hostinger came up as an option. Their prices were more in the range of what I was hoping to spend as the KVM 4 instance only runs for $10/month.
 
-![[Screenshot 2025-04-06 at 10.47.22 PM.png|The KVM4 model at $10/month would fit my needs.]]
+![[hostinger-pricing-table.png|The KVM4 model at $10/month would fit my needs.]]
 
 However, these prices also felt too good to be true! I googled around and found horror stories of Hostinger having availability issues as well as not having very fast CPU cores. To get the advertised price, I'd have to make a 2 year commitment so if Hostinger didn't provide the level of service I expected, I'd be stuck with a $240 loss. 
 
@@ -46,7 +46,7 @@ In the posts that panned Hostinger some users recommended OVH, so I checked them
 
 ## OVHcloud
 
-![[Screenshot 2025-04-06 at 10.45.32 PM.png]]
+![[ovhcloud-pricing-table.png]]
 
 OVHcloud runs more expensive than Hostinger. If I went with the $10/mo option I'd only get 4 GB of RAM. If I wnet larger I'd be looking at up to $40/month!
 

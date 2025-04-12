@@ -3,7 +3,7 @@
 
 At the end of yesterday's steps of [[Day 2b - Observability with Grafana and VictoriaMetrics|installing grafana and victoriametrics for observability]], we had discovered that my disk partitions were not what I wanted and we were quickly running out of disk on `/var`:
 
-![[Screenshot 2025-04-05 at 11.03.42 PM.png]]
+![[disk-space-used-high.png]]
 
 In light of that, I decided that now was the time to reformat the partitions, but I didn't want to lose any progress!
 

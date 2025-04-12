@@ -69,7 +69,7 @@ Once the ingress is deployed, we can now update our github repo to call the webh
 
 Go to the repo in github and click on the "Settings" button in the top section then select Webhooks.
 
-![[Screenshot 2025-04-09 at 10.37.39 PM.png]]
+![[github-webhook-settings.png]]
 
 In the webhooks section, click on "Add Webhook".
 
@@ -80,14 +80,14 @@ Fill out the form with the endpoint for your ingress and the webhook secret you 
 > Make sure you set the content type to Application/JSON or it won't work!
 
 
-![[Screenshot 2025-04-09 at 10.40.33 PM.png]]
+![[github-webhook-config-content-type.png]]
 
 
 # Test The Hook
 
 To test the hook you can push a change to your repo and ArgoCD should deploy it right away. To double-check if it's working, click into the webhook and look at the "Recent Deliveries" tab to see if it was successfully delivered:
 
-![[Screenshot 2025-04-09 at 10.45.04 PM.png]]
+![[github-webhook-expand-dots.png]]
 
 If you click the 3-dots button next to a failed delivery, you can see details on the deliver and, more importantly, you can hit the `Redeliver` button to retry that delivery without needing to push a bunch of empty commits.
 

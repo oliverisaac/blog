@@ -4,7 +4,7 @@ tags:
   - dinner
 description: An easy to make dish combines the flavors of India with the convenience of pizza
 ---
-![[PXL_20250409_225618326.PORTRAIT.ORIGINAL.jpg]]
+![[chicken-tikka-masala-pizza.jpg]]
 
 ## You will need
 

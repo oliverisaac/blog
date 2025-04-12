@@ -14,7 +14,7 @@ The first step is to setup a new Gmail account. I wanted my server to have a dif
 
 In order to use the postfix proxy you will need an "app password" to send email. To get this, you first setup two-factor auth. Then [go to the two-factor auth settings page](myaccount.google.com/signinoptions/twosv) and scroll to the bottom where you can select to manage app passwords:
 
-![[Screenshot 2025-04-07 at 10.04.21 PM.png]]
+![[google-account-app-passwords.png]]
 
 # Setup the mail secret
 
@@ -103,7 +103,7 @@ EOEMAIL
 
 Make sure to edit the destination email address to yourself and the email should show up in your inbox!
 
-![[Screenshot 2025-04-07 at 10.25.43 PM.png]]
+![[successful-test-email.png]]
 
 # Reconfigure Grafana
 
@@ -127,11 +127,11 @@ Commit those changes and redeploy them.
 
 Now you can login to your grafana instance and navigate to `Contact Points` under `Alerting`:
 
-![[Screenshot 2025-04-07 at 10.35.15 PM.png]]
+![[grafana-contact-points.png]]
 
 Edit the `grafana-default-email` contact point with your desired email address and send a test email. If all goes well you should get an email in your inbox!
 
-![[Screenshot 2025-04-07 at 10.39.10 PM.png]]
+![[grafana-test-email.png]]
 
 # Next Steps
 

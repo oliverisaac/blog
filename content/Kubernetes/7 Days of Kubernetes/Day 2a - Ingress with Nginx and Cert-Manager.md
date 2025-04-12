@@ -129,12 +129,12 @@ spec:
 
 To get most these values, I prefer to use ArtifactHub as they have an easy interface for figuring this out.
 
-![[Screenshot 2025-04-05 at 9.50.51 AM.png|Artifact hub makes it easy to get the config options for a helm chart using the Install and Default Values buttons.]]
+![[helmchart-buttons-in-artifacthub.png|Artifact hub makes it easy to get the config options for a helm chart using the Install and Default Values buttons.]]
 
 
 First we click the `Install` button to get the repo path and current version:
 
-![[Screenshot 2025-04-05 at 9.51.16 AM.png|The install popover shows us the repo, chart name, and latest version]]
+![[repo-metadata-in-artifacthub.png|The install popover shows us the repo, chart name, and latest version]]
 
 ```yaml
 apiVersion: v1
@@ -158,7 +158,7 @@ spec:
 
 Wke e can then click on the `Default Values` button and copy that entire blob into the `valuesContent` key:
 
-![[Screenshot 2025-04-05 at 9.51.39 AM.png|Copy the entire content using this button]]
+![[copy-values-button.png|Copy the entire content using this button]]
 
 Make sure that you indent the YAML values correctly so they are parsed as a string under the valuesContent key.
 
@@ -541,8 +541,8 @@ When I did this, I set my router's internal subnet CIDR to an arbitrarily high o
 Cloudflare will proxy and CDN traffic for free. You can turn this on in the Cloudflare settings. 
 If you do this, make sure you set your "SSL/TLS Encryption Mode" to "Full" or you will get infinite redirect loops when you visit your site.
 
-![[Screenshot 2025-04-05 at 4.46.49 PM.png]]
+![[too-many-redirects.png]]
 
 The SSL encryption options are in the Cloudflare dashboard -> Your Domain -> SSL/TLS
 
-![[Screenshot 2025-04-05 at 4.43.55 PM.png|Ensure your encryption mode for Cloudflare is set to Full or you'll get infinite redirection loops.]]
+![[cloudflare-ssl-encryption-mode.png|Ensure your encryption mode for Cloudflare is set to Full or you'll get infinite redirection loops.]]

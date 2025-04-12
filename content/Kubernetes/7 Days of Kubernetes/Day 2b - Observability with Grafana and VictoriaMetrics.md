@@ -417,7 +417,7 @@ spec:
 
 Speaking of node-exporter, we also want to install the [Prometheus node exporter](https://artifacthub.io/packages/helm/prometheus-community/prometheus-node-exporter) so that we can have metrics about our host. When we combine this with Grafana later, we'll get nice graphs like these:
 
-![[Screenshot 2025-04-05 at 10.31.37 PM.png|Lovely graphs in grafana showing the health of our k3s node]]
+![[grapha-graphs-system-overview.png|Lovely graphs in grafana showing the health of our k3s node]]
 
 
 This helm chart is much simpler than the previous one! Note that we need to add an annotation to the scrape config so that VictoriaMetrics will be able to discover how to scrape the node exporters.
@@ -619,7 +619,7 @@ As you deploy these helm charts it's useful to read through the entire values.ya
 
 My emphasis on getting observability deployed first ended up paying off big-time when I first got my graphs running. I discovered I was quickly running out of disk!
 
-![[Screenshot 2025-04-05 at 11.03.42 PM.png]]
+![[disk-space-used-high.png]]
 
 Within 48 hours of booting this host my `/var` partition is nearly 60% full?! What has gone wrong?! 
 
