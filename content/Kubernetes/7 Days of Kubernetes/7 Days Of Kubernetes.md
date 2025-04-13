@@ -38,9 +38,11 @@ In this post I walk through setting up and deploy the ArgoCD helm chart. ArgoCD 
 
 With ArgoCD set up, we can now configure a github webhook to trigger our ArgoCD deployes instantly rather than needing to wait for a repo sync!
 
+## [[Day 4c - Configuring Git Secrets]]
+
+Putting our entire config into code means that 
 # Upcoming posts:
 
-## [[Day 4c - Configuring Git Secrets]]
 
 ## [[Day 5 - Deploying Argo Workflows]]
 
