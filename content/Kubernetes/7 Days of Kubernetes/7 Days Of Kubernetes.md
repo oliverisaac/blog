@@ -40,7 +40,7 @@ With ArgoCD set up, we can now configure a github webhook to trigger our ArgoCD 
 
 ## [[Day 4c - Configuring Git Secrets]]
 
-Putting our entire config into code means that 
+Putting our entire config into code means that we also want to put secrets into code. In this post, we explore using transcrypt to encrypt the secrets in our git repo.
 # Upcoming posts:
 
 
