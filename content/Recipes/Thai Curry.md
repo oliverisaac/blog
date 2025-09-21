@@ -2,7 +2,7 @@
 - 900 g raw chicken
 - 600 g yellow potatoes, diced
 - diced peppers and onions 
-- 60 grams [mae ploy curry paste](https://www.amazon.com/Mae-Ploy-Yellow-Curry-Paste/dp/B002N60DA6?crid=1L4VMY8T2E6Y6&dib=eyJ2IjoiMSJ9.0d2lrDV4jgOruQdafQX-KwMj5vxcATDs9acC_GKDSfi-GRZ4ByqGXZUTTGWxz2LxkAJ-zhXa6opHhuzIyKfmzhdeTxjOmIiCwbGwoX7vai39Nw7oJC75zIJHQajVQfe0diwC2uIIaCbUZMN63EwxvlZTW_n_aghJ4rBQKIkIBtQ7jv5bU1ZDbvNrPG5sMR0cYun6Kg-pMzEMwIfe0McX_j-fQI93t0GCaFoz0YgQivG78zG8UGpLEwuvicae0exoIdNGlE5d1XTvvrdyUjh05SLw47FkdD-Miw05f3Tcr0A.lacxGE27io6sAUAiC_QDRlldRx1KBN9eUp__c_iJ2K4&dib_tag=se&keywords=mae+ploy+curry+paste&qid=1758422095&sprefix=mae+ploy+curry+paste%2Caps%2C120&sr=8-8&linkCode=ll1&tag=isaacinit-20&linkId=9f4e13249f2419b4f730afee02ee979e&language=en_US&ref_=as_li_ss_tl) 
+- 60 grams [mae ploy curry paste](https://www.amazon.com/Mae-Ploy-Yellow-Curry-Paste/dp/B002N60DA6?tag=isaacinit-20) 
 - 1 can coconut milk (do not shake!)  
 - 1 can chicken broth  
 - brown sugar 1-2tbsp (to taste
