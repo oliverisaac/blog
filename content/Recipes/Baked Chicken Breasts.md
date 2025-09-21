@@ -8,4 +8,7 @@
 4. Lay each chick breast onto the tray, ensuring each side is coated with olive oil.
 5. Sprinkle your seasoning powder onto both sides of the chicken.
 6. Cook at 400º until the inside reaches 165º F
-        1. Keep in mind that you can cook it for less time as long as you reach the required time for [[Blog/Published/Recipes/pasteurization_time_for_poultry.jpg|pasteurization of poultry]]
+        1. Keep in mind that you can cook it for less time as long as you reach the required time for [[./pasteurization_time_for_poultry.jpg|pasteurization of poultry]]
+
+
+![[Blog/Published/Recipes/pasteurization_time_for_poultry.jpg]]
