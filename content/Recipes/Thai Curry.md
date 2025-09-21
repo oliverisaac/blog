@@ -3,11 +3,11 @@
 - 600 g yellow potatoes, diced
 - diced peppers and onions 
 - 60 grams [mae ploy curry paste](https://www.amazon.com/Mae-Ploy-Yellow-Curry-Paste/dp/B002N60DA6?tag=isaacinit-20) 
-- 1 can coconut milk (do not shake!)  
+- 1 can [coconut milk](https://www.amazon.com/Chaokoh-Coconut-Milk-13-5-Ounce/dp/B00G9Y9MC8?tag=isaacinit-20) (do not shake!)  
 - 1 can chicken broth  
 - brown sugar 1-2tbsp (to taste
 - fish sauce (to taste)
-- 170 g greek yogurt
+- 170 g greek yogurt (to calm the spice, not needed if you like it spicy)
 
 Make the rice  in your rice cooker. 
 
@@ -47,6 +47,6 @@ Boil for another 3 minutes until chicken is done (165 internal temp, or 155 inte
 >  
 ![[pasteurization_time_for_poultry.jpg]]
 
-Add the greek yogurt. This will help the 
+Add the greek yogurt. 
 
 Add the brown sugar and fish sauce to taste. Start with 1-2 tbsp brown sugar and a tsp of fish sauce. A splash of lime juice can also bring out the flavors!
