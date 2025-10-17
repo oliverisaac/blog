@@ -1,15 +1,18 @@
 Makes 6 servings
 
 - 336 g uncooked pasta (elbow mac or shells)
+- 
 - 600 g cottage cheese
 - 150 g milk
 - 1-1/2 tsp paprika
-- 1 tsp garlic powder
-- 1 tsp salt
+- 3/4 tsp garlic  3/4 tsp salt
 - 1-1/2 tsp onion powder
 - 1 tsp black pepper
+- 15 g nutritional yeast 
+- 
 - 90 g cheddar cheese
 - 180 g mozzarella cheese
+- 
 - 600 g cooked chicken, diced
 
 Make the pasta and drain in a colander. 
