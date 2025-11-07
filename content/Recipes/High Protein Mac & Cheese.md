@@ -1,4 +1,4 @@
-Makes 6 servings
+Makes 6 servings, 546 calories with 47 g of protein
 
 - 336 g uncooked pasta (elbow mac or shells)
 - 
@@ -29,3 +29,5 @@ Once the cheese is melted, put back in your bowl for blending and blend until sm
 Combine the cooked chicken, the pasta, and the cheese sauce. 
 
 Divide into 6 servings.
+
+If you are reheating the Mac&Cheese, make sure to add a tablespoon or so of milk when you reheat it. That will add a bit more sauce to loosen everything up and not break the noodles when you're stirring. 
