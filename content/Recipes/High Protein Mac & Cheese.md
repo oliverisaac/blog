@@ -6,7 +6,7 @@ Makes 6 servings, 546 calories with 47 g of protein
 - 200 g milk
 - 1-1/2 tsp paprika
 - 3/4 tsp garlic 
-- 3/4 tsp salt
+- 1/2 tsp salt
 - 1-1/2 tsp onion powder
 - 1 tsp black pepper
 - 15 g nutritional yeast 
